@@ -1,5 +1,4 @@
 const products = [
-    { name: "Room Wangi Mlbb", price: "Rp50.000", image: "images/rw.jpg", description: "15+ Server Rw indo & Rw luar Free vpn" },
     { name: "Surfshark Vpn", price: "Rp10.000", image: "images/surfshark.jpg", description: "7 Day Premium, Private" },
     { name: "Express Vpn", price: "Rp10.000", image: "images/express.jpg", description: "7 Day Premium, Private" },
     { name: "Panda Vpn", price: "Rp10.000", image: "images/panda.jpg", description: "7 Day Premium, Private" },
