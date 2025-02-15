@@ -1,0 +1,97 @@
+body {
+    font-family: Arial, sans-serif;
+    background: #0D0D1A;
+    color: #fff;
+    text-align: center;
+    margin: 0;
+}
+
+/* Header */
+header {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    background: black;
+    color: white;
+    padding: 15px;
+    text-align: center;
+    transition: transform 0.5s ease-in-out;
+    z-index: 1000;
+}
+
+.logo {
+    width: 50px;
+    height: 50px;
+}
+
+/* Headline */
+.headline {
+    position: fixed;
+    top: 50px;
+    left: 0;
+    width: 100%;
+    z-index: 999;
+}
+
+#headline-img {
+    width: 100%;
+    max-height: 300px;
+    object-fit: cover;
+    transition: opacity 0.5s ease, transform 0.3s ease-in-out;
+}
+
+/* Produk */
+.product-list {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+    margin-top: 350px;
+}
+
+.product {
+    background-color: white;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    margin: 15px;
+    padding: 20px;
+    width: 200px;
+    color: black;
+}
+
+.product img {
+    width: 100%;
+    border-radius: 5px;
+    cursor: pointer;
+}
+
+/* Tombol Order */
+.order-button {
+    display: block;
+    background-color: #25D366;
+    color: white;
+    text-align: center;
+    padding: 10px;
+    margin-top: 10px;
+    text-decoration: none;
+    border-radius: 5px;
+    font-weight: bold;
+}
+
+.order-button:hover {
+    background-color: #1ebe57;
+}
+
+/* Gambar besar */
+.large-image-container {
+    text-align: center;
+    margin-top: 30px;
+}
+
+#large-product-img {
+    display: none;
+    width: 400px;
+    max-width: 90%;
+    border-radius: 10px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.2);
+}
