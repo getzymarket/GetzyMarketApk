@@ -1,5 +1,5 @@
 const products = [
-    { name: "Room Wangi Mlbb", price: "Rp50.000", image: "images/rw.jpg", description: "15+ Server Rw indo & Rw luar Free vpn" }
+    { name: "Room Wangi Mlbb", price: "Rp50.000", image: "images/rw.jpg", description: "15+ Server Rw indo & Rw luar Free vpn" },
     { name: "Surfshark Vpn", price: "Rp10.000", image: "images/surfshark.jpg", description: "7 Day Premium, Private" },
     { name: "Express Vpn", price: "Rp10.000", image: "images/express.jpg", description: "7 Day Premium, Private" },
     { name: "Panda Vpn", price: "Rp10.000", image: "images/panda.jpg", description: "7 Day Premium, Private" },
@@ -8,8 +8,8 @@ const products = [
     { name: "Capcut Pro", price: "Rp25.000", image: "images/capcut.jpg", description: "Capcut Pro 1 Bulan" },
     { name: "Alight Motion Premium", price: "Rp8.000-Rp20.000", image: "images/am.jpg", description: "1 Tahun Premium Sharing-Private" },
     { name: "Netflix Premium", price: "Rp31.000-Rp40.000", image: "images/netflix.jpg", description: "Netflix Premium 1 Bulan 1P2U / 1 Bulan 1P1U HD4K" },
-    { name: "Suntik Like Ig & Tiktok", price: "Rp2.000-Rp16.000", image: "images/suntik.jpg", description: "Suntik Like Tiktok & Ig Fast Proses" }
-    { name: "YouTube Premium ", price: "Rp5.500-Rp10.000-Rp35.000", image: "images/yt.jpg", description: "1Bulan-2bulan-1tahun" }
+    { name: "Suntik Like Ig & Tiktok", price: "Rp2.000-Rp16.000", image: "images/suntik.jpg", description: "Suntik Like Tiktok & Ig Fast Proses" },
+    { name: "YouTube Premium ", price: "Rp5.500-Rp10.000-Rp35.000", image: "images/yt.jpg", description: "1Bulan-2bulan-1tahun" },
 ];
 
 const productList = document.querySelector(".product-list");
