@@ -8,6 +8,8 @@ const products = [
     { name: "Alight Motion Premium", price: "Rp8.000-Rp20.000", image: "images/am.jpg", description: "1 Tahun Premium Sharing-Private" },
     { name: "Netflix Premium", price: "Rp31.000-Rp40.000", image: "images/netflix.jpg", description: "Netflix Premium 1 Bulan 1P2U / 1 Bulan 1P1U HD4K" },
     { name: "Suntik Like Ig & Tiktok", price: "Rp2.000-Rp16.000", image: "images/suntik.jpg", description: "Suntik Like Tiktok & Ig Fast Proses" }
+    { name: "YouTube Premium ", price: "Rp5.500-Rp10.000-Rp35.000", image: "images/yt.jpg", description: "1Bulan-2bulan-1tahun" }
+];
 ];
 
 const productList = document.querySelector(".product-list");
