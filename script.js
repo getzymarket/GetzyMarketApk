@@ -4,6 +4,7 @@ const products = [
     { name: "Surfshark", price: "Rp10.000", image: "images/surfshark.jpg", description: "7 Day Premium, Private" },
     { name: "Pia Vpn", price: "Rp10.000", image: "images/pia.jpg", description: "7 Day Premium, Private" },
     { name: "Nord Vpn", price: "Rp10.000", image: "images/nord.jpg", description: "7 Day Premium, Private" },
+    { name: "Getcontact Premium", price: "Rp15.000", image: "images/get.jpg", description: "1Bulan" },
     { name: "Capcut Pro", price: "Rp31.000", image: "images/capcut.jpg", description: "Capcut Pro 1 Bulan" },
     { name: "Alight Motion Premium", price: "Rp8.000-Rp20.000", image: "images/am.jpg", description: "1 Tahun Premium Sharing-Private" },
     { name: "Netflix Premium", price: "Rp31.000-Rp40.000", image: "images/netflix.jpg", description: "Netflix Premium 1 Bulan 1P2U / 1 Bulan 1P1U HD4K" },
